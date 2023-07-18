@@ -1,0 +1,1 @@
+ install MSChart_VisualStudioAddOn.exe to add chart function into Visual Studio
